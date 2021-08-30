@@ -1,0 +1,1 @@
+# Instalacao-debian-11.0.0.64x
